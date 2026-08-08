@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller build artifacts
+build/
+dist/
+*.spec
+
+# WhatsApp Profile / User Data Directory
+.whatsapp_app_profile/
+
+# Environment / IDEs
+.venv/
+venv/
+ENV/
+.vscode/
+.idea/
