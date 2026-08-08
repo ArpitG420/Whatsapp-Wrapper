@@ -29,3 +29,22 @@ A lightweight, modern Windows desktop wrapper for WhatsApp Web built using **PyQ
    ```bash
    git clone [https://github.com/ArpitG420/Whatsapp-Wrapper.git](https://github.com/ArpitG420/Whatsapp-Wrapper.git)
    cd Whatsapp-Wrapper
+2. Install Dependencies:
+   ```bash
+   pip install -r requirements.txt
+3. Run the script:
+   ```bash
+   python src/Whatsapp.pyw
+
+---
+
+## 📄 License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+---
+
+## ⚠️ Disclaimer
+
+This project is an unofficial, community-driven desktop wrapper for WhatsApp Web. It is **not** affiliated with, authorized, maintained, sponsored, or endorsed by WhatsApp LLC, Meta Platforms, Inc., or any of their affiliates or subsidiaries. All product and company names are trademarks™ or registered® trademarks of their respective holders.
+
