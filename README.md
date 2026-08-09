@@ -94,3 +94,4 @@ Distributed under the MIT License. See `LICENSE` for more details.
 
 This project is an unofficial, community-driven desktop wrapper for WhatsApp Web. It is **not** affiliated with, authorized, maintained, sponsored, or endorsed by WhatsApp LLC, Meta Platforms, Inc., or any of their affiliates or subsidiaries. All product and company names are trademarks™ or registered® trademarks of their respective holders.
 
+
