@@ -1,6 +1,13 @@
 import ctypes
 import os
 import sys
+# Set Chromium environment variables BEFORE QApplication initializes
+os.environ["QTWEBENGINE_CHROMIUM_FLAGS"] = (
+    "--enable-features=ProprietaryCodecs,WidevineCdm "
+    "--ignore-gpu-blocklist "
+    "--enable-gpu-rasterization "
+    "--enable-accelerated-video-decode"
+)
 from PyQt6.QtCore import Qt, QUrl
 from PyQt6.QtGui import QDesktopServices, QIcon, QPixmap
 from PyQt6.QtWebEngineCore import QWebEnginePage, QWebEngineProfile
